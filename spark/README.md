@@ -2,7 +2,7 @@
 
 ## Required package
 
-### Spark 2.11
+ Spark 2.11
 
 ## Description
 A recommendation system that predicts the items an user may like based on the user's ratings for the similiar items. The system is implemented with spark framework
